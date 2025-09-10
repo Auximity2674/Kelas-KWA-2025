@@ -1,10 +1,4 @@
 # Juice-Shop Write-up: Login Admin
-
-## Overview
-Judul: Login Admin
-Kategori: SQL Injection
-Difficulty: ⭐⭐ 
-
 Challenge ini mengharuskan kita untuk mengeksploitasi kerentanan SQL Injection dalam proses autentikasi sebuah aplikasi web untuk mendapatkan akses tidak sah ke akun administrator.
 
 ## Tools yang Digunakan
